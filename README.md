@@ -58,6 +58,7 @@
 - [Graph-based Knowledge Distillation by Multi-head Attention Network](https://arxiv.org/abs/1907.02226), Seunghyun Lee, Byung Cheol Song, 2019
 - [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688), Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan, 2019
 - [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197), Yifan Liu, Ke Chen, Chris Liu, Zengchang Qin, Zhenbo Luo, Jingdong Wang, 2019
+- [Fast Human Pose Estimation](https://arxiv.org/abs/1811.05419), Feng Zhang, Xiatian Zhu, Mao Ye, 2019
 
 ***
 ### Videos
@@ -78,6 +79,7 @@
 - [Neural Network Distiller by Intel AI Lab](https://github.com/NervanaSystems/distiller), [distiller/knowledge_distillation.py](https://github.com/NervanaSystems/distiller/blob/master/distiller/knowledge_distillation.py)
 - [Relational Knowledge Distillation](https://github.com/lenscloth/RKD)
 - [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://github.com/bhheo/AB_distillation)
+- [Fast Human Pose Estimation Pytorch](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
