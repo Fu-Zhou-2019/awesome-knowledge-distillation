@@ -2,7 +2,10 @@
 ================================
 
 ### Papers
-- [Combining labeled and unlabeled data with co-training](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf), A. Blum, T. Mitchell, 1998 
+- [Neural Network Ensembles](https://www.researchgate.net/publication/3191841_Neural_Network_Ensembles), L.K. Hansen, P. Salamon, 1990
+- [Neural Network Ensembles, Cross Validation, and Active Learning](https://papers.nips.cc/paper/1001-neural-network-ensembles-cross-validation-and-active-learning.pdf), Andres Krogh, Jesper Vedelsby, 1995
+- [Combining labeled and unlabeled data with co-training](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf), A. Blum, T. Mitchell, 1998
+- [Ensemble Methods in Machine Learning](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf), Thomas G. Dietterich, 2000
 - [Model Compression](http://www.cs.cornell.edu/~caruana/compression.kdd06.pdf), Rich Caruana, 2006
 - [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf), Geoffrey Hinton , OriolVinyals & Jeff Dean, 2014
 - [Learning with Pseudo-Ensembles](https://arxiv.org/pdf/1412.4864.pdf), Philip Bachman, Ouais Alsharif, Doina Precup, 2014
@@ -39,6 +42,7 @@
 - [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf), Junho Yim, Donggyu Joo, Jihoon Bae, Junmo Kim, 2017
 - [Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/pdf/1708.04106.pdf), Zihao Liu, Qi Liu, Tao Liu, Yanzhi Wang, Wujie Wen, 2017
 - [Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/pdf/1712.04440.pdf), Ilija Radosavovic, Piotr Dollár, Ross Girshick, Georgia Gkioxari, Kaiming He, 2017
+- [Learning from Noisy Labels with Distillation](https://arxiv.org/abs/1703.02391), Yuncheng Li, Jianchao Yang, Yale Song, Liangliang Cao, Jiebo Luo, Li-Jia Li, 2017 
 - [Interpreting Deep Classifiers by Visual Distillation of Dark Knowledge](https://arxiv.org/pdf/1803.04042.pdf), Kai Xu, Dae Hoon Park, Chang Yi, Charles Sutton, 2018
 - [Efficient Neural Architecture Search via Parameters Sharing](https://arxiv.org/pdf/1802.03268), Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean, 2018
 - [Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Albert Gordo, 2018
@@ -53,12 +57,15 @@
 - [Self-supervised knowledge distillation using singular value decomposition](http://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html), Seung Hyun Lee, Dae Ha Kim, Byung Cheol Song, 2018
 - [Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](https://arxiv.org/abs/1809.05884), Yongcheng Liu, Lu Sheng, Jing Shao, Junjie Yan, Shiming Xiang, Chunhong Pan, 2018
 - [Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks](https://arxiv.org/abs/1811.02759), Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy, 2018
+- [Large scale distributed neural network training through online distillation](https://arxiv.org/abs/1804.03235), Rohan Anil, Gabriel Pereyra, Alexandre Passos, Robert Ormandi, George E. Dahl, Geoffrey E. Hinton, 2018
 - [Deep Face Recognition Model Compression via Knowledge Transfer and Distillation](https://arxiv.org/abs/1906.00619), Jayashree Karlekar, Jiashi Feng, Zi Sian Wong, Sugiri Pranata, 2019
 - [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068), Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho, 2019
 - [Graph-based Knowledge Distillation by Multi-head Attention Network](https://arxiv.org/abs/1907.02226), Seunghyun Lee, Byung Cheol Song, 2019
 - [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688), Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan, 2019
 - [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197), Yifan Liu, Ke Chen, Chris Liu, Zengchang Qin, Zhenbo Luo, Jingdong Wang, 2019
 - [Fast Human Pose Estimation](https://arxiv.org/abs/1811.05419), Feng Zhang, Xiatian Zhu, Mao Ye, 2019
+- [MEAL: Multi-Model Ensemble via Adversarial Learning](https://arxiv.org/abs/1812.02425), Zhiqiang Shen, Zhankui He, Xiangyang Xue, 2019
+- [Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821), Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy, 2019
 
 ***
 ### Videos
@@ -80,6 +87,7 @@
 - [Relational Knowledge Distillation](https://github.com/lenscloth/RKD)
 - [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://github.com/bhheo/AB_distillation)
 - [Fast Human Pose Estimation Pytorch](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch)
+- [MEAL: Multi-Model Ensemble via Adversarial Learning](https://github.com/AaronHeee/MEAL)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
@@ -88,6 +96,7 @@
 - [Distilling knowledge to specialist ConvNets for clustered classification ](https://github.com/natoromano/specialistnets)
 - [Sequence-Level Knowledge Distillation](https://github.com/harvardnlp/seq2seq-attn), [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
 - [cifar.torch distillation](https://github.com/samirasamadi/Distillation)
+- [ENet-SAD](https://github.com/cardwing/Codes-for-Lane-Detection)
 
 ## Theano
 - [FitNets: Hints for Thin Deep Nets](https://github.com/net-titech/distillation/tree/master/FitNets)
@@ -104,7 +113,7 @@
 - [Inspired by net2net, network distillation ](https://github.com/luzai/NetworkCompress)
 - [Deep Reinforcement Learning, knowledge transfer](https://github.com/arnomoonens/DeepRL/tree/master/agents/knowledgetransfer)
 - [Knowledge Distillation using Tensorflow](https://github.com/DushyantaDhyani/kdtf)
-- [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/Knowledge_distillation_methods_wtih_Tensorflow)
+- [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/KD_methods_with_TF)
 - [Zero-Shot Knowledge Distillation in Deep Networks in ICML2019 ](https://github.com/sseung0703/Zero-shot_Knowledge_Distillation)
 
 ## Caffe
